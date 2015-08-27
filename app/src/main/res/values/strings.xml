@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Message App</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="button_non">Non Violence</string>
+    <string name="button_tru">Truthfulness</string>
+    <string name="button_hum">Humility</string>
+    <string name="button_cha">Chastity</string>
+    <string name="button_diet">Diet</string>
+    <string name="button_self">Selfless Service</string>
+    
+    <string name="title_activity_non_v">Non Violence</string>
+    <string name="title_activity_tru">Truthfulness</string>
+    <string name="title_activity_diet">Diet</string>
+    <string name="title_activity_cha">Chastity</string>
+    <string name="title_activity_hum">Humility</string>
+    <string name="title_activity_self">Selfless Service</string>
+</resources>

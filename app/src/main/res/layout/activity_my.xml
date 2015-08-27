@@ -1,0 +1,57 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/button_non"
+        android:id="@+id/button_non"
+        android:onClick="openNon"
+        android:layout_weight="0" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/button_tru"
+        android:id="@+id/button_tru"
+        android:onClick="openTru"
+        android:layout_weight="0" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/button_cha"
+        android:id="@+id/button_cha"
+        android:onClick="openCha"
+        android:layout_weight="0" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/button_hum"
+        android:id="@+id/button_hum"
+        android:onClick="openHum"
+        android:layout_weight="0" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/button_diet"
+        android:id="@+id/button_diet"
+        android:onClick="openDiet"
+        android:layout_weight="0" />
+
+        <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/button_self"
+        android:id="@+id/button_self"
+        android:onClick="openSelf"
+        android:layout_weight="0" />
+
+</LinearLayout>
